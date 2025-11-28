@@ -1,7 +1,9 @@
 # **Frontend Engineer (2–5 Years) — Assessment Task**
 
 **Time to complete:** 6–8 hours
+
 **Tech:** React (with or without Next.js), TypeScript preferred, any CSS method, GitHub
+
 **Optional:** Testing, charts, local JSON server, mock APIs
 
 ---
