@@ -1,6 +1,6 @@
-# Backend Engineer Task (2–5 Years Experience)
+# Backend Engineer Task
 
-**Time Limit:** 6 Hours
+**Time Limit:** 6-12 Hours
 **Preferred Stack:** Node.js (TypeScript optional), PostgreSQL (or MySQL), REST APIs
 **Bonus:** Python, Redis, Docker, AWS knowledge
 
